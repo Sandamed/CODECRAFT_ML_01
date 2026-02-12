@@ -1,5 +1,5 @@
 # CODECRAFT_ML_01
-Linear Regression Model to Predict Prices of Houses# House Price Prediction using Linear Regression
+Linear Regression Model to Predict Prices of Houses
 
 ##  Project Overview
 This project implements a Linear Regression model to predict house prices based on:
